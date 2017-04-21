@@ -5,7 +5,7 @@ A tensorflow implementation of Google's [MobileNets: Efficient Convolutional Neu
 ## Base Module
 
 <div align="center">
-<img src="https://github.com/Zehaos/MobileNet/figures/dwl_pwl.png"><br><br>
+<img src="https://github.com/Zehaos/MobileNet/blob/master/figures/dwl_pwl.png"><br><br>
 </div>
 
 ## Usage
@@ -27,5 +27,6 @@ bash ./script/train_mobilenet_on_imagenet.sh
 
 ## TODO
 - [x] Train on Imagenet
+- [ ] Add Hyperparameters
 - [ ] Report training result
 - [ ] Intergrate into object detection task
